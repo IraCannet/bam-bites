@@ -1,0 +1,6 @@
+<script async src="https://lcx-embed.bambuser.com/default/embed.js" type="text/javascript"></script>
+<bam-player event-id="4xpIbFiwTPOIlFplrHtN" autoplay="true"></bam-player>
+<style>:root {
+  --bam-player-width: 250px;
+  --bam-player-corner-radius: 10px;
+}</style>
