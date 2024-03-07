@@ -1,0 +1,16 @@
+<script async src="https://lcx-embed.bambuser.com/default/embed.js" type="text/javascript"></script>
+<bam-bundle event-ids="SwGKIQzgGIh7gokdG99D, 4y6jPPTm4VE05NoHhLq9, Mukx2sjswvt2lEqQremW, FrUQXNEEUHhvg3Uqcx6y, PsmELeBmC8RqfNJ1nAGp,KtD2iG2zmNQIKSu7GyHk" autoplay="cascade" mode="row" focus-mode="carousel"></bam-bundle>
+<style>
+  /*poster="https://www.sisley-paris.com/on/demandware.static/-/Library-Sites-Sisley/default/dwee4ddf28/masterclass/big-desktop/Maquillage-levres2.jpg"*/
+  
+  :root {
+  --bam-player-width: 250px; /*Control the size of players (default is the original size of the video).*/
+  --bam-player-corner-radius: 5px; /*Set the corner radius of players.*/
+  --bam-player-overlay-font-family: Roboto Light, arial, sans-serif; /*Choose which font to use for the title overlay.*/
+  --bam-player-overlay-font-weight: 400;	/*Control the weight of the text in the title overlay.*/
+  --bam-player-overlay-display-title: true;	/*Toggle the visibility of the title text*/
+  --bam-player-overlay-text-wrap: true; /*Toggle whether the text in the overlay should wrap (true) or overflow (false).перенос текста*/
+  --bam-player-placeholder-color: lightgrey; /*Set the color of the placeholder (shown before the video or poster image has loaded).*/
+  --bam-bundle-gap: 25px;
+  --bam-carousel-border-radius: 10px;
+}</style>
